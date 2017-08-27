@@ -1,4 +1,3 @@
-
 # Microsoft Bing Image Search API - R SDK
 This repo contains the R SDK for the Bing Image Search API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
 
@@ -18,6 +17,10 @@ install.packages('cognitive_face')
 ```bash
 R cognitive_face.R install
 ```
+## Package Requirements
+
+* `httr`
+* `jsonlite`
 
 ## Unittests
 
