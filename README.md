@@ -1,5 +1,4 @@
-# Bing Image Search API
-## _R-Friendly Interface_
+# Bing Image Search API: _R-Friendly Interface_
 This repo contains an R-friendly interface for the Bing Image Search API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
 
 _NOTE: IN PROGRESS_
