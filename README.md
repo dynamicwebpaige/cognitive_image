@@ -1,5 +1,5 @@
-# Microsoft Image API: R SDK
-This repo contains the R SDK for the Microsoft Image API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
+# Microsoft Bing Image Search API - R SDK
+This repo contains the R SDK for the Bing Image Search API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
 
 * [Learn about the Bing Image Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-image-search-api/)
 * [Read the documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-image-search/search-the-web)
