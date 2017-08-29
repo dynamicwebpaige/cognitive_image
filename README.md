@@ -1,5 +1,5 @@
 # Bing Image Search API: _R-Friendly Interface_
-This repo contains an R-friendly interface for the Bing Image Search API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
+This repo contains an R-friendly interface for the Bing Image Search API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services). The package supports authentication (via `httr`) and extraction of values from JSON (via `jsonlite`). You must, however, be in possession of a Microsoft Subscription Key to run the service.
 
 _NOTE: IN PROGRESS_
 
